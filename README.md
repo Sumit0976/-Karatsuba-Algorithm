@@ -5,4 +5,4 @@ Optimizing large-scale numerical operations by implementing a
 improve the efficiency of Large-Scale numerical operations and
 implementing the algorithm on FPGAs and compared execution
 times and resource utilization with traditional multiplication
-methods.
+methods and done with 3 diffrent methods.
